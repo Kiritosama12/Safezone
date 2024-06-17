@@ -1,2 +1,1 @@
-# Safezone
-System Safezone Standalone
+Download dependency https://github.com/mkafrin/PolyZone 
